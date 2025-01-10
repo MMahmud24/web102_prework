@@ -25,9 +25,10 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/user-attachments/assets/c6c74a4a-d160-407b-aae3-ebf5f62f1549
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with QuickTime Plater
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
