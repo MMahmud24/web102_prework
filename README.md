@@ -24,8 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![GameBacker](https://github.com/user-attachments/assets/db02429f-a3ec-4ab0-8a02-8f036ba15cd2)
+<img src='GameBacker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 
